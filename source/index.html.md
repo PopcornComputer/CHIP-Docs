@@ -1,10 +1,10 @@
 ---
-title: Next Thing Co Documentation
+title: Popcorn Computer Documentation
 
 language_tabs:
 
 toc_footers:
-  - <a href='http://github.com/getchip/CHIP-Docs'>Have something to add or change?<br>Visit our GitHub!</a>
+  - <a href='http://github.com/PopcornComputer/CHIP-Docs'>Have something to add or change?<br>Visit our GitHub!</a>
 
 includes:
   - welcome-to-derp.md
@@ -25,4 +25,4 @@ search: true
 ---
 
 # Introduction
-Welcome to Next Thing Co documentation.
+Welcome to Popcorn Computer's CHIP documentation.
