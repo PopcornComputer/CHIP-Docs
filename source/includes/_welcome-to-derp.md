@@ -1,6 +1,6 @@
 # Welcome to The CHIP Operating System
 
-We made a computer. *A $9 computer*. And every computer needs an operating system. 
+We made a computer. And every computer needs an operating system. 
 
 Ours is The CHIP Operating System. Grab an old TV (or any screen with a composite video input), a keyboard and mouse, and stick some electricity in the micro USB port. In a few seconds, you'll have CHIP's operating system on your screen, ready to do **computer things.** 
 

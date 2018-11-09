@@ -34,7 +34,7 @@ If you want additional storage, you can attach a USB drive!
 ## How many accessible pins does CHIP have?
 Eight digital GPIOs, one PWM pin, SPI, TWI (I2C), UART, USB, CSI, Parallel LCD output, touchpanel input, stereo audio out, mono audio in, composite video out, and a whole bunch of power rails in and out.
 
-The most up-to-date information is on [our GitHub repo](https://github.com/NextThingCo).
+The most up-to-date information is on [our GitHub repo](https://github.com/PopcornComputer).
 
 ## Can I make my own adapter board?
 Absolutely! The schematics and layout for the boards, both of C.H.I.P. and C.H.I.P.’s adapters will be released as they are finalized for production. From that, you can build whatever sort of adapters or add-ons you want!
@@ -97,9 +97,6 @@ YES!
 
 ## Does C.H.I.P. have an ethernet port?
 No. But it does have built-in 802.11b/g/n wifi. But if you like wires, you can use a USB-Ethernet connector.
-
-## Does C.H.I.P. come with a banana?
-C.H.I.P. is strictly B.Y.O.B. ;)
 
 ## Is there a command that lets me know more about the CPU and Memory?
 It's a computer! It will tell you anything. If you want to find out more details about CHIP's processor, use the command:
